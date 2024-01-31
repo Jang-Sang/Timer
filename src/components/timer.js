@@ -11,7 +11,6 @@ export default function SetTimer() {
     1000
   );
 
-  // 타이머 기능
   const timer = () => {
     const checkMinutes = Math.floor(count / 60);
     const hours = Math.floor(count / 3600);

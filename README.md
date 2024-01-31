@@ -1,5 +1,10 @@
 ## Timer 만들기
 
+### 체험해보러가기
+
+Timer
+[링크](https://timer-tawny-tau.vercel.app/)
+
 ### CheckList(Y/N)
 
 1. 나는 useState와 useRef의 차이를 구분하여 용도에 맞게 사용할 수 있다
